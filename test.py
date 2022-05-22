@@ -1,1 +1,1 @@
-games= "1,2,6,3"
+print('hello world!')
